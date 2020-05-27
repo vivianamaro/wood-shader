@@ -1,0 +1,17 @@
+body{
+	background-color: lightyellow;
+	margin: 0;
+	text-align: center;
+}
+h1{
+	color: brown;
+	font-size: 40px;
+		margin: 0;
+	text-align: center;
+
+}
+.content{
+	max-width: 1000px;
+	margin: 0 auto;
+	padding: 200px 40px 30px 20px;
+}
